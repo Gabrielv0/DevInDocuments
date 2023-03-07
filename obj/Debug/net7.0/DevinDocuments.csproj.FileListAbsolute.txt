@@ -1,0 +1,15 @@
+C:\Users\V2gam\OneDrive\Documentos\devindocuments\bin\Debug\net7.0\DevinDocuments.exe
+C:\Users\V2gam\OneDrive\Documentos\devindocuments\bin\Debug\net7.0\DevinDocuments.deps.json
+C:\Users\V2gam\OneDrive\Documentos\devindocuments\bin\Debug\net7.0\DevinDocuments.runtimeconfig.json
+C:\Users\V2gam\OneDrive\Documentos\devindocuments\bin\Debug\net7.0\DevinDocuments.dll
+C:\Users\V2gam\OneDrive\Documentos\devindocuments\bin\Debug\net7.0\DevinDocuments.pdb
+C:\Users\V2gam\OneDrive\Documentos\devindocuments\obj\Debug\net7.0\DevinDocuments.csproj.AssemblyReference.cache
+C:\Users\V2gam\OneDrive\Documentos\devindocuments\obj\Debug\net7.0\DevinDocuments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V2gam\OneDrive\Documentos\devindocuments\obj\Debug\net7.0\DevinDocuments.AssemblyInfoInputs.cache
+C:\Users\V2gam\OneDrive\Documentos\devindocuments\obj\Debug\net7.0\DevinDocuments.AssemblyInfo.cs
+C:\Users\V2gam\OneDrive\Documentos\devindocuments\obj\Debug\net7.0\DevinDocuments.csproj.CoreCompileInputs.cache
+C:\Users\V2gam\OneDrive\Documentos\devindocuments\obj\Debug\net7.0\DevinDocuments.dll
+C:\Users\V2gam\OneDrive\Documentos\devindocuments\obj\Debug\net7.0\refint\DevinDocuments.dll
+C:\Users\V2gam\OneDrive\Documentos\devindocuments\obj\Debug\net7.0\DevinDocuments.pdb
+C:\Users\V2gam\OneDrive\Documentos\devindocuments\obj\Debug\net7.0\DevinDocuments.genruntimeconfig.cache
+C:\Users\V2gam\OneDrive\Documentos\devindocuments\obj\Debug\net7.0\ref\DevinDocuments.dll
